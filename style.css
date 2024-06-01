@@ -20,6 +20,7 @@ ul {
   display: flex;
   gap: 30px;
 }
+
 ul li a {
   font-weight: 400;
   color: #1e1928;
